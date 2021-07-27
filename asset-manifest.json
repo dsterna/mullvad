@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dsterna/mullvad/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/dsterna/mullvad/static/js/main.e2875fe8.chunk.js",
+    "main.js.map": "/dsterna/mullvad/static/js/main.e2875fe8.chunk.js.map",
+    "runtime-main.js": "/dsterna/mullvad/static/js/runtime-main.832872de.js",
+    "runtime-main.js.map": "/dsterna/mullvad/static/js/runtime-main.832872de.js.map",
+    "static/js/2.5bd60932.chunk.js": "/dsterna/mullvad/static/js/2.5bd60932.chunk.js",
+    "static/js/2.5bd60932.chunk.js.map": "/dsterna/mullvad/static/js/2.5bd60932.chunk.js.map",
+    "static/js/3.210e9b10.chunk.js": "/dsterna/mullvad/static/js/3.210e9b10.chunk.js",
+    "static/js/3.210e9b10.chunk.js.map": "/dsterna/mullvad/static/js/3.210e9b10.chunk.js.map",
+    "index.html": "/dsterna/mullvad/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/dsterna/mullvad/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.5bd60932.chunk.js.LICENSE.txt": "/dsterna/mullvad/static/js/2.5bd60932.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/dsterna/mullvad/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.832872de.js",
+    "static/js/2.5bd60932.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.e2875fe8.chunk.js"
+  ]
+}
